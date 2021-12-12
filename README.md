@@ -21,13 +21,10 @@
 skeet1/skeet1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Mohamed Karim</h1>
+<h1 align="center">Hi 👋, I'm Said Mazouz</h1>
 <h3 align="center">Programmer | Developer | Learner | 1337 Student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skeet1&label=Profile%20views&color=0e75b6&style=flat" alt="skeet1" /> </p>
 
-
-<p align="left"> <a href="https://twitter.com/skeet_cpp" target="blank"><img src="https://img.shields.io/twitter/follow/skeet_cpp?logo=twitter&style=for-the-badge" alt="skeet_cpp" /></a> </p>
 
 - 🔭 I’m currently working on **Born2beroot Project**
 
@@ -35,10 +32,10 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **medkarim.pro@gmail.com**
+- 📫 How to reach me **smazouz@student.1337.ma**
 <br>
 <h2 style="color: blue" > 42 Cursus <h2>
-<img src="https://badge42.herokuapp.com/api/stats/mkarim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42" />
+<img src="https://badge42.herokuapp.com/api/stats/smazouz?privacyEmail=true)](https://github.com/JaeSeoKim/badge42" />
 <br>
   <!--
   <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&white=true&login=mkarim" />
