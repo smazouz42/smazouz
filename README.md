@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/skeet_cpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skeet_cpp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrmohamedkarim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrmohamedkarim" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16700290/karimskeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karimskeet" height="30" width="40" /></a>
- <a href="https://codeforces.com/profile/skeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="karimskeet" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/specterM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="karimskeet" height="30" width="40" /></a>
 </p>
 
 <a href="https://github.com/smazouz42?tab=repositories">
