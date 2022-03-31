@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/smazouz42?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smazouz42&theme=dark"/>
 </a>
-<a href="https://github.com/smazouz42?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=smazouz42&line_height=40&show_icons=true&theme=dark">
+<a href="https://github.com/Archer-01?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Archer-01&line_height=40&show_icons=true&theme=dark">
 </a>
 
