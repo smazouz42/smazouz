@@ -44,6 +44,6 @@ Hi, I'm [Said mazouz](https://github.com/smazouz42), a self-taught Problem Solve
 
 <br />
 
-<a href="https://github-readme-stats.vercel.app/api?username=smazouz&count_private=true&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aklaikel&count_private=true&show_icons=true" alt="Klaikel's github stats" />
+<a href="https://github-readme-stats.vercel.app/api?username=smazouz42&count_private=true&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smazouz42&count_private=true&show_icons=true" alt="Smazouz's github stats" />
 </a>
